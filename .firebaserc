@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "portfolio-d3956": {
+      "hosting": {
+        "PortfolioFirebase": [
+          "portfolio-d3956"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "portfolio-d3956"
+  }
+}
